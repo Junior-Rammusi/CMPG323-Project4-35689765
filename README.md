@@ -27,16 +27,25 @@ Customers Tab:
 - Update all existing customers.
 - Delete all customers.
 
-Products Resource:
+Products Tab:
 
 - Get a list of all products.
 - Create new products.
 - Update all existing products.
 - Delete all products.
 
-Orders Resource:
+Orders Tab:
 
 - Get a list of all orders.
 - Create new orders.
 - Update all existing orders.
 - Delete all orders.
+
+#References
+
+Anders Jensen.2023.UIPath Beginners Course 2023-How to Get Started.https://www.youtube.com/watch?v=A8cLOfItmv8&t=3003s.16 Oct.2023.
+Kunal Suryawanshi.2022.Fetching Data from Excel and Entering into Desktop Application.https://www.youtube.com/watch?v=gfqx9L9ZVs4&t=354s.16 Oct.2023
+Marcel Cruz.2021.Fill data from EXCEL on WEB FORM - UiPath RPA Tutorial.https://www.youtube.com/watch?v=vnhWtP0Z5uQ&t=739s.16 Oct.2023
+UIPath Forum.2023.Getting error on execution Unable to start execution - BeginOrUpdateSession timed out.https://forum.uipath.com/t/getting-error-on-execution-unable-to-start-execution-beginorupdatesession-timed-out/575058.17 Oct.2023
+UIPath Documentation.2023.Documentation.https://docs.uipath.com/.17 Oct.2023
+UiPath.(n.d.).RPA Fundamentals.https://www.uipath.com/rpa/robotic-process-automation.18 Oct.2023
