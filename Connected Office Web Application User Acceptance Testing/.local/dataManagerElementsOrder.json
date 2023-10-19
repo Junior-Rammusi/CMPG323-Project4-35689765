@@ -1,0 +1,36 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "OrderDetailTable&Sequence_33",
+        "CustomerTable&Sequence_33",
+        "ProductTable&Sequence_32",
+        "CustomerTable&Sequence_32",
+        "CustomerTable&Sequence_31",
+        "CustomerTable&Sequence_28",
+        "OrderDetailTable&Sequence_23",
+        "ProductTable&Sequence_23",
+        "CustomerTable&Sequence_23",
+        "CustomerTable&Sequence_22",
+        "CustomerTable&Sequence_20",
+        "OrderDetailTable&Sequence_15",
+        "ProductTable&Sequence_12",
+        "OrderTable&Sequence_9",
+        "CustomerTable&Sequence_6"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
